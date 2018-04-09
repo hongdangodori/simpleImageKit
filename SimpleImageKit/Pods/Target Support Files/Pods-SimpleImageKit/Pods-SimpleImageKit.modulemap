@@ -1,0 +1,6 @@
+framework module Pods_SimpleImageKit {
+  umbrella header "Pods-SimpleImageKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
